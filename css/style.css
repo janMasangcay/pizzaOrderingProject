@@ -1,0 +1,53 @@
+body {
+    background-image: url(../img/image1.jpg);
+}
+
+.caption {
+    width: 100%;
+    max-width: 100%;
+    top: 50%;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+.caption h3 {
+    color: #000;
+    font-size: 5rem;
+    font-weight: bold;
+    background-color: #fff;
+    opacity: .5;
+    padding: 50px 0;
+}
+
+.card {
+    position: relative;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgba(250, 250, 250, .75);
+    border-radius: .25rem;
+    margin-bottom: 10px
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 10px;
+}
+
+h5.card-title {
+    text-align: center;
+    border-bottom: 1.5px solid #000;
+}
+
+h4.modalHeader {
+    font-size: 30px;
+    text-align: center;
+    border-bottom: .5px solid #000;
+    margin-bottom: 20px;
+}
+
+.card-body h6 {
+    font-size: 14px;
+}
