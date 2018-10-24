@@ -2,7 +2,7 @@
 
 This is a friendly client side project where the user can select the desired menu for their pizza and will be able to get the total amount of the order and the list of the items that they have selected.
 
-## Getting Started
+## Requirements
 
 The goal here is to return an invoiced reciept to the user's screen with their total purchase price once they press an "Order" button.
 #### BASE PIZZA PRICE BEFORE INGREDIENT MODIFICATIONS:
@@ -23,3 +23,8 @@ _+$3.00 for any size pizza_
 * Crust:
 
 _+$3.00 for Cheese Stuffed Crust. All other crusts are complementary._
+
+## Skills
+* HTML5
+* CSS3
+* JavaScript
